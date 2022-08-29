@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/mattia-dok/MattiaForlin)
 
-- 🌱 I’m currently learning **Web Development and security**
+- 🌱 I’m currently learning **web Development, cybersecurity and ethical hacking**
 
 - 👨‍💻 All of my projects are available at [mattiaforlin.io](mattiaforlin.io)
 
