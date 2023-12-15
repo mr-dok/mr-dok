@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syscall-dok" alt="syscall-dok" /></a> </p>
 
-```
 {
-
+<ul>
+  
   - currently I am concluding the bachelor degree in computer science in Venice 🛶 at Ca' Foscari University 🎓
 
   - 📬 How to reach me **mtt.forlin9@gmail.com**
 
+</ul>
 }
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
