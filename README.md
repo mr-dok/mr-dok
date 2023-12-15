@@ -7,9 +7,9 @@
 
 {
 
-  - 🔭 currently I am concluding the bachelor degree in computer science in Venice 🎭 at Ca' Foscari University 🎓
+  - currently I am concluding the bachelor degree in computer science in Venice 🛶 at Ca' Foscari University 🎓
 
-  - 📫 How to reach me **mtt.forlin9@gmail.com**
+  - 📬 How to reach me **mtt.forlin9@gmail.com**
 
 }
 
