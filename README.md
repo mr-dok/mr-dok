@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, i'm ( mattia ) </h1>
-<h3 align="center">{ generic developer and UX/UI gesigner from Italy 🇮🇹 }</h3>
+<h3 align="center">{ generic developer and UX/UI designer from Italy 🇮🇹 }</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syscall-dok&label=Profile%20views&color=0e75b6&style=flat" alt="syscall-dok" /> </p>
 
