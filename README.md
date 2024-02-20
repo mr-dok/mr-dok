@@ -21,8 +21,8 @@
 <a href="[https://instagram.com/aittam00](https://www.instagram.com/_mattia__f_)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aittam00" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=syscall-dok&show_icons=true&locale=en&layout=compact" alt="syscall-dok" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-dok&show_icons=true&locale=en&layout=compact" alt="mr-dok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syscall-dok&show_icons=true&locale=en" alt="syscall-dok" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-dok&show_icons=true&locale=en" alt="mr-dok" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=syscall-dok&" alt="syscall-dok" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-dok&" alt="mr-dok" /></p>
