@@ -1,28 +1,23 @@
-<h1 align="center">hi 👋, i'm ( mattia ) </h1>
+<h1 align="center">hi 👋 </h1>
 <h3 align="center">{ generic developer and UX/UI designer from Italy 🇮🇹 }</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-dok&label=Profile%20views&color=0e75b6&style=flat" alt="mr-dok" /> </p>
+- at present i am an undergraduate computer science student at Ca' Foscari University 🎓 in Venice 🛶.
+- 📬 reach me for work and collaborations on: **mtt.forlin9@gmail.com** or in my social media profiles (links below)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-dok" alt="mr-dok" /></a> </p>
+---
 
-{
-<ul>
-  
-  - currently I am concluding the bachelor degree in computer science in Venice 🛶 at Ca' Foscari University 🎓
+![C](https://img.shields.io/badge/-C-141414?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C%2B%2B-141414?style=for-the-badge&logo=cpp)
+![HTML](https://img.shields.io/badge/-HTML-141414?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-141414?style=for-the-badge&logo=css)
+![Javascript](https://img.shields.io/badge/-Javascript-141414?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-141414?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-141414?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-Python-141414?style=for-the-badge&logo=python)
+![NodeJS](https://img.shields.io/badge/-NodeJS-141414?style=for-the-badge&logo=nodedotjs)
+![Docker](https://img.shields.io/badge/-Docker-141414?style=for-the-badge&logo=docker)
 
-  - 📬 How to reach me **mtt.forlin9@gmail.com**
+---
 
-</ul>
-}
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__mattia02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__mattia02" height="30" width="40" /></a>
-<a href="[https://instagram.com/aittam00](https://www.instagram.com/_mattia__f_)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aittam00" height="30" width="40" /></a>
-</p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-dok&show_icons=true&locale=en&layout=compact" alt="mr-dok" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-dok&show_icons=true&locale=en" alt="mr-dok" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-dok&" alt="mr-dok" /></p>
+[![X](https://img.shields.io/badge/-X-141414?style=for-the-badge&logo=X)](https://x.com/__mattia02)
+[![Instagram](https://img.shields.io/badge/-Instagram-141414?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_mattia__f_/)
