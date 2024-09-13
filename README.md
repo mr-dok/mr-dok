@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋 </h1>
-<h3 align="center">{ generic developer and UX/UI designer from Italy 🇮🇹 }</h3>
+<h3 align="center">{ computer scientist / software engineer / UX/UI designer from Italy 🇮🇹 }</h3>
 
 - at present i am an undergraduate computer science student at Ca' Foscari University 🎓 in Venice 🛶.
 - 📬 reach me for work and collaborations on: **mtt.forlin9@gmail.com** or in my social media profiles (links below)
